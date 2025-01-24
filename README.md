@@ -1,6 +1,7 @@
 # Webtoon Creator Content-Fan Analysis
-- Webtoon Creator Content and Fan  Communication Analysis for Deriving Fandom Enhancement Strategies (Personal project)
--  웹툰 작가 콘텐츠와 팬 소통 분석을 통한 팬덤 강화 전략 도출 (개인 프로젝트)  
+- Analysis of Webtoon Creator Content and Fan Communication Effects and Derivation of Fandom Enhancement Strategies (Personal project)
+- 웹툰 작가 콘텐츠와 팬 소통 효과 분석 및 팬덤 강화 전략 도출 (개인 프로젝트) / 2024.10~2025.01   
+ 
 <br>
 <br>  
 
